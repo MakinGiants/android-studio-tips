@@ -21,6 +21,9 @@ Select per block:
 - `Alt + Up`: going up
 - `Alt + Down`: going down
 
+### Autocompletion
+- `Cmd + space`: normal autocompletion
+- `Cmd + Shift + space`: smart autocompletion (just objects with same type for ex)
 
 ## Setup 
 
